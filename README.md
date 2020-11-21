@@ -1,6 +1,6 @@
 # Neural nets from scratch!
 
-#### This is project where I classify images of everyday objects using a neural networks built from scratch. 
+#### This is a project where I classify images of everyday objects using a neural networks built from scratch. 
 #### Dataset: Cifar10 
 #### Framework: PyTorch
 
