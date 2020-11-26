@@ -4,6 +4,17 @@
 #### Dataset: Cifar10 
 #### Framework: PyTorch
 
+#### Installation
+To install PyTorch via Anaconda, use the following conda command:
+```
+conda install pytorch torchvision -c pytorch
+```
+To install PyTorch via pip, use one of the following two commands, depending on your Python version:
+```
+# Python 3.x
+pip3 install torch torchvision
+```
+
 Here, I have written feed forward neural nets and convolutional neural nets from scratch, in order to classify objects in the CIFAR10 dataset.
 
 The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
